@@ -1,5 +1,6 @@
 # Page Aligner
-This repository contains a program that aligns and crops a photo of a paper page. The program allows the user to choose the output path for the resulting aligned image. It utilizes image processing techniques to detect the rectangular shape of the object (page), find the corners, and align the page properly.
+This repository contains a program that aligns and crops a photo of a paper page.
+It utilizes image processing techniques to detect the rectangular shape of the object (page), find the corners, and align the page properly.
 <br/>**This project was developed as part of an image processing course.**
 
 ## Environment
